@@ -1,0 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=Merriweather+Sans:wght@300&display=swap");
+@import "header.css";
+@import "banner.css";
+@import "ingredients.css";
+@import "time.css";
+@import "preparation.css";
+@import "footer.css";
+body {
+  font-family: "Merriweather Sans", sans-serif;
+}
